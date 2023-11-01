@@ -157,7 +157,7 @@ header {
 /*content*/
 .bgc {
     width: 1170px;
-    height:auto;
+    height: 100%;
     margin: 0px auto;
     background-color: rgba(63, 69, 122, 0.50) !important;
 }
